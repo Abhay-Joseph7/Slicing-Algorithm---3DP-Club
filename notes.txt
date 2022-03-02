@@ -1,0 +1,2 @@
+polygons - a vector of structure contour
+contour - structure containing a vector of class v3 (P)
